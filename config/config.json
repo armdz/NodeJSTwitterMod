@@ -1,9 +1,9 @@
 {
 	"api":{
-	  "consumer_key": "",
-	  "consumer_secret": "",
-	  "access_token_key": "",
-	  "access_token_secret": ""
+	  "consumer_key": "2z4Ibs2sNxBfI7WxXuasDwr6O",
+	  "consumer_secret": "8v3yezknsNuMAvOaKlZepgZ16O4XBRYeMziEqgOTgn0SSmVYXb",
+	  "access_token_key": "3604423097-oPnYZJMZeDG1yncyuZ7ozuZKJFa3iEq5JcSgtjT",
+	  "access_token_secret": "mcONzsSy5snhjyUMZcELEn7dFIjWbMRGi9j7PYr1CuItc"
 	},
 	"search":{
 		"hashtags":[
